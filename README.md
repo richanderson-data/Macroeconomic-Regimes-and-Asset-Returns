@@ -76,6 +76,20 @@ macro-regimes-asset-returns/
 
 ---
 
+## How To Run
+
+1. Clone the repository  
+2. Open in RStudio  
+3. Run scripts in order:  
+   - `scripts/01_data_pull.R`  
+   - `scripts/02_regime_classification.R`  
+   - `scripts/03_return_analysis.R`  
+   - `scripts/04_visualizations.R`
+
+
+---
+
+
 ## Reproducibility
 All results in this repository are reproducible. Scripts should be run sequentially (`01` → `04`) from the project root. No manual data downloads are required.
 
