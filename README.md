@@ -1,4 +1,7 @@
 # macro-regimes-asset-returns
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Language: R](https://img.shields.io/badge/Language-R-blue.svg)
+![Data: FRED](https://img.shields.io/badge/Data-FRED-lightgrey.svg)
 
 ## Overview
 This project presents an empirical macro-finance analysis examining how U.S. interest-rate and inflation regimes relate to equity and fixed-income asset behavior. Rather than relying on narrative or political classifications, macroeconomic regimes are defined quantitatively using historical Federal Reserve data.
