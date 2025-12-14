@@ -1,0 +1,4 @@
+metric,p25,p75,threshold,notes
+EFFR_level,0.1125,3.78,NA,Rate level regime thresholds based on EFFR percentiles
+Inflation_YoY,1.7150983482969062,3.16642120765831,NA,Inflation regime thresholds based on CPI YoY percentiles
+EFFR_12m_change_pp,NA,NA,0.25,Direction regime uses +/- threshold on 12m change in EFFR

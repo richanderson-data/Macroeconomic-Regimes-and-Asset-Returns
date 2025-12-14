@@ -1,0 +1,4 @@
+asset,regime_type,rate_direction_regime,n,mean_change_pp,sd_change_pp
+10Y Yield (Δ pp),rate_direction_regime,Falling,91,-0.02395604395604393,0.313010042866498
+10Y Yield (Δ pp),rate_direction_regime,Rising,92,0.030108695652173934,0.24379551224681437
+10Y Yield (Δ pp),rate_direction_regime,Stable,108,-0.017129629629629644,0.22522699214877615

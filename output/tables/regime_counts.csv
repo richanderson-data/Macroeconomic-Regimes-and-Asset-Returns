@@ -1,0 +1,23 @@
+regime_type,regime,n
+inflation_regime,Moderate,209
+inflation_regime,High,104
+inflation_regime,Low,104
+inflation_regime,(Missing),15
+joint_regime,(Missing),141
+joint_regime,Low + Stable,51
+joint_regime,Moderate + Rising,47
+joint_regime,Moderate + Falling,44
+joint_regime,High + Rising,40
+joint_regime,Moderate + Stable,37
+joint_regime,Low + Falling,34
+joint_regime,High + Stable,20
+joint_regime,High + Falling,13
+joint_regime,Low + Rising,5
+rate_direction_regime,(Missing),138
+rate_direction_regime,Stable,108
+rate_direction_regime,Falling,94
+rate_direction_regime,Rising,92
+rate_level_regime,Mid,152
+rate_level_regime,(Missing),126
+rate_level_regime,High,77
+rate_level_regime,Low,77
